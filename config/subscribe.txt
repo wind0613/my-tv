@@ -16,3 +16,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://8.138.7.223/live.txt
 https://raw.githubusercontent.com/wind0613/IPTV/refs/heads/main/live.m3u
+https://176868.cloud/d3693e03ff59a135185f442749151b24/1c231446c8a356f3472e8f8c405dab00/19af241a24d9bde4b51c74c1e9bc8fc7/playlist.m3u
