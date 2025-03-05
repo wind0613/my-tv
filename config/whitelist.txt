@@ -2,3 +2,9 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+東森電影台,http://176868.cloud/d7f6a2fd180bca9e1ed41052bcdd4816/1c231446c8a356f3472e8f8c405dab00/30fde89756f36a75ac193e7fb4c8ca15/index.m3u8
+東森電影台,http://176868.cloud/2df1e67957706ac7c03b8787c6acf08d/1c231446c8a356f3472e8f8c405dab00/b65fb88c25bb023b6daae860405b703e/index.m3u8
+東森電影台,http://176868.cloud/17172e136bbbdbd1f4a8548ee4c22be0/1c231446c8a356f3472e8f8c405dab00/8318e112380ea2d26e2045cd74db7746/index.m3u8
+東森電影台,http://176868.cloud/d54504a2185587b1ad0a0c5144725cbc/1c231446c8a356f3472e8f8c405dab00/bed363000ef3b4e3e9c14eef99f13a88/index.m3u8
+東森電影台,http://176868.cloud/76e4dfeb652070a19e145c5f86b50446/1c231446c8a356f3472e8f8c405dab00/936cc9b4f5c57a3d4e559aa063b89fb9/index.m3u8
