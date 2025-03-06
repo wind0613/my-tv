@@ -4,3 +4,5 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 
+
+https://176868.cloud/d3693e03ff59a135185f442749151b24/1c231446c8a356f3472e8f8c405dab00/19af241a24d9bde4b51c74c1e9bc8fc7/playlist.m3u
